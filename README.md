@@ -10,5 +10,5 @@ The main goal of this project was to analyze the sentiment associated with vario
 
 For more details about the project, feel free to check out the blog articles:
 
-CZ: bit.ly/projekt_stossova_hp
+CZ: https://bit.ly/projekt_stossova_hp
 ENG: https://bit.ly/project_stossova_hp
